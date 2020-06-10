@@ -1,0 +1,28 @@
+{
+  "name": "prueba_html",
+  "version": "1.0.0",
+  "description": "prueba primera semana",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariiza95/eps.git"
+  },
+  "keywords": [
+    "ddae",
+    "gsdeas"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariiza95/eps/issues"
+  },
+  "homepage": "https://github.com/ariiza95/eps#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
